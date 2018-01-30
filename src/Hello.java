@@ -9,6 +9,9 @@ public class Hello {
 		System.out.println("1180 Links Court");
 		System.out.println("Brookfield WI 53005");
 		System.out.println("Another Feature");
+		System.out.println("Watch Netflix");
+		System.out.println("Go to mall");
+		System.out.println("Eat Hot Cheetos");
 	}
 
 }
